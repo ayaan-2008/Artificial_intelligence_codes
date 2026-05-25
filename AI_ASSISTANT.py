@@ -17,7 +17,7 @@ APPS = {
 
     "calculator": "calc.exe",
     "calc": "calc.exe",
-
+    "camera": "microsoft.windows.camera",
     "notepad": "notepad.exe",
 
     "paint": "mspaint.exe",
